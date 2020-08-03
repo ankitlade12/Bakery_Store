@@ -1,4 +1,4 @@
-# Bakery_Website
+# Bakery_Store
 
 •	Technlogies used (EC2, Django, Amazon RDS, MYSQL, API, CloudWatch)
 
